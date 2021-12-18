@@ -4,7 +4,7 @@ Computer vision algorithms for searching and analyzing technical and scientific 
 ## figure-segmentation
 Indentify sub-figures within compound figures.
 
-Model: Point-Shooting Method U-Net, HR-Net, Transformer
+Model: Point-Shooting Method U-Net, HR-Net, Transformers
 
 Deep Learning Framework: Pytorch, Keras
 
