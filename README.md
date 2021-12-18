@@ -1,7 +1,7 @@
 # GoFigure
 Computer vision algorithms for searching and analyzing technical and scientific images such as figures, diagrams and drawings.
 
-## figure-segmentation
+## Figure-segmentation
 Indentify sub-figures within compound figures.
 
 Model: Point-Shooting Method U-Net, HR-Net, Transformers
