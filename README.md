@@ -42,3 +42,5 @@ please run testing_transformer_ex.py
 
 If you find this code useful, please cite:
 
+Md Reshad Ul Hoque,Xin Wei,Muntabir Hasan Choudhury,Kehinde Ajayi,Martin Gryder,Jian Wu,Diane Oyen. "Segmenting Technical Drawing Figures in US Patents" -- SDU@ AAAI.2022.
+
